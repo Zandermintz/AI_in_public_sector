@@ -4,7 +4,7 @@ Using state-of-the-art pre-trained BERT (Bidirectional Encoder Representations f
 
 This computational research is being conducted in conjunction with a forthcoming paper on this topic.
 
-##########################################################################################################################################################################################################
+#####################################################################################################
 
 Directory Includes: 
 
